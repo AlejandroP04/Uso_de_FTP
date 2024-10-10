@@ -1,0 +1,20 @@
+.fondo1 {
+
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(140,170,162,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.fondo2 {
+
+    background: rgb(239,170,163);
+    background: linear-gradient(90deg, rgba(239,170,163,1) 35%, rgba(0,212,255,1) 100%);
+
+}
+
+.texto1 {
+
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px 0;
+}
